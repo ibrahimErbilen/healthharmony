@@ -29,7 +29,7 @@ This is the frontend application for the **HealthHarmony** project, developed wi
 
 -   **Framework:** Flutter
 -   **Language:** Dart
--   **Backend:** [C#](https://github.com/ibrahimErbilen/HealthHarmony_Backend)
+-   **Backend:**  C# WebAPI  https://github.com/ibrahimErbilen/HealthHarmony_Backend
 
 ### 🛠️ Prerequisites
 
@@ -90,7 +90,7 @@ Bu proje, **HealthHarmony** uygulamasının Flutter ile geliştirilmiş frontend
 
 -   **Framework:** Flutter
 -   **Dil:** Dart
--   **Backend:** [C#](https://github.com/ibrahimErbilen/HealthHarmony_Backend)
+-   **Backend:** C# WebAPI   https://github.com/ibrahimErbilen/HealthHarmony_Backend
 
 ### 🛠️ Gereksinimler
 
