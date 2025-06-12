@@ -23,17 +23,13 @@ This is the frontend application for the **HealthHarmony** project, developed wi
 -   **Coach Interaction:** Find and connect with professional coaches for personalized guidance.
 -   **In-App Messaging:** Securely chat with your friends and assigned coaches.
 
-### 🖼️ Screenshots
 
-*(It is recommended to add screenshots of your application here to showcase the UI.)*
-
-![Screenshot 1](link_to_your_screenshot1.png)
-![Screenshot 2](link_to_your_screenshot2.png)
 
 ### 💻 Tech Stack
 
 -   **Framework:** Flutter
 -   **Language:** Dart
+-   **Backend:** [C#](https://github.com/ibrahimErbilen/HealthHarmony_Backend)
 
 ### 🛠️ Prerequisites
 
@@ -88,17 +84,13 @@ Bu proje, **HealthHarmony** uygulamasının Flutter ile geliştirilmiş frontend
 -   **Koç Etkileşimi:** Kişiselleştirilmiş rehberlik için profesyonel koçları bulun ve onlarla bağlantı kurun.
 -   **Uygulama İçi Mesajlaşma:** Arkadaşlarınızla ve size atanmış koçlarla güvenli bir şekilde sohbet edin.
 
-### 🖼️ Ekran Görüntüleri
 
-*(Uygulamanın arayüzünü sergilemek için buraya ekran görüntüleri eklemeniz önerilir.)*
-
-![Ekran Görüntüsü 1](link_to_your_screenshot1.png)
-![Ekran Görüntüsü 2](link_to_your_screenshot2.png)
 
 ### 💻 Teknoloji Yığını
 
 -   **Framework:** Flutter
 -   **Dil:** Dart
+-   **Backend:** [C#](https://github.com/ibrahimErbilen/HealthHarmony_Backend)
 
 ### 🛠️ Gereksinimler
 
